@@ -8,7 +8,7 @@
 
 # The Process
 
-## 1. Creating the REPO on Github
+## Creating the REPO on Github
 
 1. Login to Github
 2. 
