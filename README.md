@@ -6,11 +6,11 @@ This work is based on the DOCSIFY (https://docsify.js.org/) magical site generat
 
 This is a work in progress and is being updated.
 
-## Why is project and who I'm I?
+## Why this project and who I'm I?
 
-G'day, I'm known as Coweater and I'm the lead designer for an indie RPG [7th Extinction](https:7thExtinctionrpg.com). I needed something simply to create and host my SRD, after a searching the web and a lot of trial & errors I settled on Docsify thanks Gulluth for your previous work. Knowing that not everyone is techincally minded I wanted to do more than point indie developers to Docsify and say 'use this'.
+G'day, I'm known as Coweater and I'm the lead designer for an indie RPG [7th Extinction](https:7thExtinctionrpg.com). I needed something simply to create and host my SRD and after a searching the web and a lot of trial & error I settled on Docsify, thanks Gulluth for your previous work. Knowing that not everyone is techincally minded I wanted to do more than point indie developers to Docsify and say 'use this'.
 
-So the plan is to continue to tweak and develop this, ensuring to keep it a simple project any indie rpg can use to create great looking SRD online resources with zero cost and little techincally knowledge. 
+So the plan is to continue to tweak and develop this, ensuring to keep it a simple project that any indie rpg can use to create great looking SRD online with zero cost and little techincally knowledge. 
 
 ## Acknowledgments 
 
