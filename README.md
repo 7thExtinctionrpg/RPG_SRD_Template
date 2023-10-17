@@ -17,10 +17,10 @@ So the plan is to continue to tweak and develop this, ensuring to keep it a simp
 
 ## Acknowledgments 
 
-1. This work is based on the DOCSIFY (https://docsify.js.org/) magical site generator project.
-2. Gulluth (https://gist.github.com/Gulluth) guide requires some techincal knowledge, its where I started this jounrey so thank you to them!
+1. This work is based on the [DOCSIFY](https://docsify.js.org/) magical site generator project.
+2. [Gulluth](https://gist.github.com/Gulluth) guide requires some techincal knowledge, its where I started this jounrey so thank you to them!
 3. Docsify Dark/light theme used in this repo is based on (https://docsify-darklight-theme.boopathikumar.me/#/)
-4. Big shout out to bronthlke (https://github.com/bronthulke) for changes to Hamburger placement, overriding styles for Fonts
+4. Big shout out to [bronthlke](https://github.com/bronthulke) for changes to Hamburger placement, overriding styles for Fonts
 
 
 
