@@ -8,7 +8,35 @@
 
 # The Process
 
-## Creating the REPO on Github
+## Creating the Repository on Github
 
 1. Login to Github
-2. 
+2. Navigate to the public template https://github.com/7thExtinctionrpg/RPG_SRD_Template
+3. Click "Use this template"
+4. Select "Create a new repository"
+5. Enter a repository name
+6. Select 'Private' 
+7. Select 'Create repository'
+
+It will take 5-30 seconds to copy the template, then you'll have your own copy.
+
+## Adding Your Content
+
+### *.md Files
+
+.md files are markdown files, plain text files that easy to create and load into any software. Depending on the size of your content you can either place all your game information in a single *.md file, or like I have at [7thextinctionrpg.com](https://srd.7thextinctionrpg.com) create separate files for each chapter. The "sample.md" provides some formatting examples. Markdown language is very easy, use the link provided on point 2 under Prerequisites above for a full list of syntax. 
+
+### _Sidebar.md
+
+This is your menu, navigation pane on the left side of the website. 
+
+## Enable Github Pages to turn the Repository into a Website
+
+1. In your repository click on 'Settings'
+2. Select 'Pages' on the left hand side menu
+3. If you haven't made the repository 'public', you have two choices
+    a. Make the repository public which will then allow you to use Github pages to host your SRD Website for free
+    b. Upgrade your Github account (at the time of writing this it costs $4 a month or $48 annual fee)
+4. Under 'Branch'select 'main' and click save
+5. Give it 10-20 seconds then refresh the page
+6. You'll now see your URL such as https://coweater.github.io/mysrd/
