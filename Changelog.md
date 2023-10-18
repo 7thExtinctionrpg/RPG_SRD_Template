@@ -1,5 +1,17 @@
 # Changelog
 
+## V0.1.1
+
+### Features
+
+- Added "How To instructions"
+
+### Bug Fixes
+
+- N/A
+
+---
+
 ## V0.1.0
 
 ### Features
