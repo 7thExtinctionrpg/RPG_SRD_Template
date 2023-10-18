@@ -17,12 +17,14 @@
 2. Navigate to the public template https://github.com/7thExtinctionrpg/RPG_SRD_Template
 
 3. Click "Use this template"
-![Step3](/_assets/Step3.png)
+
+![Step3](/_media/Step3.png)
 
 4. Select "Create a new repository"
 
 5. Enter a repository name
-![Step5](/_assets/Step5.png)
+
+![Step5](/_media/Step5.png)
 
 6. Select 'Private' 
 
@@ -47,10 +49,12 @@ This is your menu, navigation pane on the left side of the website. Once you hav
 ## Enable Github Pages to turn the Repository into a Website
 
 1. In your repository click on 'Settings'
-![Website-Step1](/_assetsWebsite-Step1.png)
+
+![Website-Step1](/_media/Website-Step1.png)
 
 2. Select 'Pages' on the left hand side menu
-![Website-Step2](/_assetsWebsite-Step2.png)
+
+![Website-Step2](/_media/Website-Step2.png)
 
 3. If you haven't made the repository 'public', you have two choices
     a. Make the repository public which will then allow you to use Github pages to host your SRD Website for free
@@ -61,4 +65,5 @@ This is your menu, navigation pane on the left side of the website. Once you hav
 5. Give it 10-20 seconds then refresh the page
 
 6. You'll now see your URL such as https://coweater.github.io/mysrd/
-![Website-Step6](/_assetsWebsite-Step6.png)
+
+![Website-Step6](/_media/Website-Step6.png)
