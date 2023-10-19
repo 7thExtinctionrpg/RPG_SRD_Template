@@ -1,6 +1,7 @@
 # Changelog
 
 ## V0.1.2
+*20th Oct 23*
 
 ### Features
 
