@@ -32,6 +32,8 @@
 
 It will take 5-30 seconds to copy the template, then you'll have your own copy.
 
+8. Ensure that you have the file ".nojekyll" this is an empty file that is needed when hosting a website on Github otherwise the SRD will not display properly. *(Tells GitHub Pages not to run the published files through Jekyll).*
+
 
 ## Adding Your Content
 
