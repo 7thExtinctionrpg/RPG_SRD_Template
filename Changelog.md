@@ -1,5 +1,18 @@
 # Changelog
 
+## V0.1.2
+*20th Oct 23*
+
+### Features
+
+- Added step (8) in instructions for ensuring ".nojekyll" file is created.
+
+### Bug Fixes
+
+- N/A
+
+---
+
 ## V0.1.1
 
 ### Features
