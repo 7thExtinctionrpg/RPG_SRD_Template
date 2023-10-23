@@ -69,3 +69,12 @@ This is your menu, navigation pane on the left side of the website. Once you hav
 6. You'll now see your URL such as https://coweater.github.io/mysrd/
 
 ![Website-Step6](/_media/Website-Step6.png)
+
+
+## Changing Fonts
+
+1. Edit the /_assets/style.css file 
+
+2. Under the 'body section' you'll find siteFont & headingFont
+
+3. Change these to the fonts you want to use

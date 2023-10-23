@@ -21,6 +21,7 @@ So the plan is to continue to tweak and develop this, ensuring to keep it a simp
 2. [Gulluth](https://gist.github.com/Gulluth) guide requires some technical knowledge, it's where I started this journey so thank you to them!
 3. Docsify Dark/light theme used in this repo is based on (https://docsify-darklight-theme.boopathikumar.me/#/)
 4. Big shout out to [bronthlke](https://github.com/bronthulke) for changes to Hamburger placement, overriding styles for Fonts
+5. [Fzankl's](https://github.com/fzankl) Flexible Alerts plugin (https://github.com/fzankl/docsify-plugin-flexible-alerts)
 
 
 

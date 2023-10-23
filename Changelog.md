@@ -7,6 +7,7 @@
 
 - Added Flexible Alerts Plugin
 - Update Sample.md with new formatting options from Flexible Alerts
+- Added instructions for changing both the Heading & Site fonts in **How To**
 
 ### Bug Fixes
 
