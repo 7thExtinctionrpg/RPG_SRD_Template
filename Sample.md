@@ -1,26 +1,22 @@
-# QUIRKS
+# Sample Heading 1
 
-A quirk is a distinctive characteristic or behaviour that helps define a character's personality, social standing, physical abilities, or raw talent. Quirks can have advantages, drawbacks, or both effects on a character's situation or abilities. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat massa. In sit amet neque ante. Praesent nec nulla iaculis, fringilla diam vitae, porttitor turpis. Curabitur nec ex in dui ornare consectetur. Nulla pretium, dolor sed lacinia imperdiet, nisi nisl efficitur odio, pharetra tempor felis quam quis augue. In erat diam, molestie vel commodo vel, convallis id mi. Pellentesque pretium tortor quis efficitur gravida. Sed vulputate, ex non pretium suscipit, justo justo elementum arcu, id efficitur lacus urna id quam. Maecenas non turpis velit. Praesent vel enim eleifend, varius mauris id, condimentum libero. Nam et magna felis. Ut rutrum accumsan convallis. Ut a urna ac sem iaculis porttitor ac quis purus. Praesent nulla leo, laoreet ac pretium sodales, eleifend ac ipsum.
 
-They can add depth and interest to a character, and make them more memorable and engaging to other players. Overall, quirks are meant to be an enjoyable and interactive aspect of a roleplaying game, providing players with the opportunity to create unique and memorable characters that stand out from the crowd.
+## Heading 2
 
-?> AP = Advancement Point cost to aquire the Qurik.
+### Heading 3
 
+#### Heading 4
 
-## Deadeye	
-*AP: 12*
+##### Heading 5
 
-****Prerequisite:**** "Crack Shot"
-This quirk indicates that the character possesses exceptional skill as a sharpshooter and expert marksman capable of performing incredible feats of accuracy and precision When using single-handed munitions 
+###### Heading 6
 
-Bonus of +1 to hit with single-handed munitions.
+**BOLD**
 
-## Robin Hood
-*AP: 8*
+*Italics*
 
-Opposed: Yes
-
-Taking careful aim with your bow or crossbow you let loose a precise shot that if successful, knocks an adversary's weapon from their grasp. In the event of a Critical Success, your shot has a chance to knock the weapon further away or even carry the adversary's weapon, pinning it against a solid object.
+# Sample Table
 
 | Critical Successes | Outcome |
 | ----------- | ----------- |
@@ -29,4 +25,26 @@ Taking careful aim with your bow or crossbow you let loose a precise shot that i
 | 3+ | Weapon knock up to 4 metres away in d4 random direction behind adversary |
 
 
-> Note: If an adversary possesses the Tight Grip manoeuvre, they can make an Armed Combat (Weapon Class) or Munitions skill check if they possess the Tight Grip Quirk to hold onto the weapon
+> [!Note]
+> Sample Note Callout
+
+> [!Tip]
+> Sample Tip Callout
+
+> [!Warning]
+> Sample Warning Callout
+
+> [!Attention]
+> Sample Attention Callout
+
+> [!Note|style:flat]
+> Sample Note Callout
+
+> [!Tip|style:flat]
+> Sample Tip Callout
+
+> [!Warning|style:flat]
+> Sample Warning Callout
+
+> [!Attention|style:flat]
+> Sample Attention Callout

@@ -1,5 +1,19 @@
 # Changelog
 
+## V0.2.0
+*23th Oct 23*
+
+### Features
+
+- Added Flexible Alerts Plugin
+- Update Sample.md with new formatting options from Flexible Alerts
+
+### Bug Fixes
+
+- N/A
+
+---
+
 ## V0.1.2
 *20th Oct 23*
 
