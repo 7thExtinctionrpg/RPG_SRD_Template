@@ -26,25 +26,25 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 
 > [!Note]
-> Sample Note Callout
+> Sample Note Callout Style
 
 > [!Tip]
-> Sample Tip Callout
+> Sample Tip Callout Style
 
 > [!Warning]
-> Sample Warning Callout
+> Sample Warning Callout Style
 
 > [!Attention]
-> Sample Attention Callout
+> Sample Attention Callout Style
 
 > [!Note|style:flat]
-> Sample Note Callout
+> Sample Note Flat Style
 
 > [!Tip|style:flat]
-> Sample Tip Callout
+> Sample Tip Flat Style
 
 > [!Warning|style:flat]
-> Sample Warning Callout
+> Sample Warning Flat Style
 
 > [!Attention|style:flat]
-> Sample Attention Callout
+> Sample Attention Flat Style
