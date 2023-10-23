@@ -8,7 +8,7 @@ This work is based on the [DOCSIFY](https://docsify.js.org/) magical site genera
 This is a work in progress and is being updated.
 
 
-## Why this project and who I'm ?
+## Why this project and who am I?
 
 G'day, I'm known as Coweater and I'm the lead designer for an indie RPG [7th Extinction](https:7thExtinctionrpg.com). I needed something simple to create and host my SRD and after searching the web and a lot of trial & error I settled on Docsify, thanks Gulluth for your previous work. Knowing that not everyone is technically minded I wanted to do more than point indie developers to Docsify and say 'use this'.
 
