@@ -6,7 +6,7 @@
 
 3. You can do this whole process through the browser without knowing git. Though  learning github desktop will allow you to test any changes locally before deploying them live for the world to see.
 
-> If you have a domain name registered, you can't use this with this process to create an SRD like I have https://srd.7thextinctionrpg.com
+> If you have a domain name registered, you can use this with this process to create an SRD like I have https://srd.7thextinctionrpg.com
 
 # The Process
 
