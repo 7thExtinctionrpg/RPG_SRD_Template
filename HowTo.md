@@ -97,7 +97,7 @@ Use Fontawesome to get free icons and animated icons. Subcribed users can use Pr
 4. Place the copied text between `:` no spaces
 
 ```EXAMPLE
-`:fa-solid fa-dice-d20:`
+fa-solid fa-dice-d20
 ```
 
 ### Material Icons
