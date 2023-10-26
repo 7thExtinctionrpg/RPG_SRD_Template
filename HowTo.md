@@ -84,6 +84,8 @@ This is your menu, navigation pane on the left side of the website. Once you hav
 
 ### Fontawesome
 
+Use Fontawesome to get free icons and animated icons. Subcribed users can use Pro Icons
+
 ```markup
 :fas fa-home fa-fw:
 ```
@@ -96,12 +98,8 @@ This code is converted to
 
 ### Material Icons
 
+Cpoy & insert the web span link from Material Icons site into the markdown file
+
 ```markup
-:fingerprint:
-```
-
-This code is converted to
-
-```html
-<i class="material-icons-outlined">fingerprint</i>
+<span class="material-icons">face</span>
 ```
