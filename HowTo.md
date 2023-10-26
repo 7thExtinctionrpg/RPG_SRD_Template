@@ -97,7 +97,7 @@ This code is converted to :
 ### Material Icons
 
 ```markup
-:mi-two-tone check_circle green:
+:mi-two-tone check_circle:
 ```
 
 This code is converted to :

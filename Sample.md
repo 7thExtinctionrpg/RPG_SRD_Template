@@ -59,5 +59,5 @@ D20 Animated :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
 
 ## Material Icons
 
-:mi-two-tone check_circle green:
+:mi-two-tone check_circle:
 
