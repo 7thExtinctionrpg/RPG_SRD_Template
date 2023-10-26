@@ -82,7 +82,7 @@ This is your menu, navigation pane on the left side of the website. Once you hav
 
 ## Using Fontawesome and/or Material Icons plugin to display free icons in your SRD
 
-### Fontaesome
+### Fontawesome
 
 ```markup
 :fas fa-home fa-fw:
