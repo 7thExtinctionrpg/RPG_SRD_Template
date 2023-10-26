@@ -88,7 +88,7 @@ This is your menu, navigation pane on the left side of the website. Once you hav
 :fas fa-home fa-fw:
 ```
 
-This code is converted to :
+This code is converted to 
 
 ```html
 <i class="fas fa-home fa-fw"></i>
@@ -100,7 +100,7 @@ This code is converted to :
 :mi-two-tone check_circle:
 ```
 
-This code is converted to :
+This code is converted to
 
 ```html
 <i class="material-icons-two-tone">check_circle</i>
