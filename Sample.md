@@ -48,3 +48,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 > [!Attention|style:flat]
 > Sample Attention Flat Style
+
+## Fontawesome
+
+These are free icon examples and animations you can use in your SRD
+
+D20 Static :fa-thin fa-dice-d20: 
+
+D20 Animated :fa-thin fa-dice-d20 fa-spin-pulse: 
+
