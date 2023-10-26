@@ -53,6 +53,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 These are free icon examples and animations you can use in your SRD
 
+D6  :fa-solid fa-dice fa-xl:
+
 D20 Static :fa-solid fa-dice-d20 fa-lg:  
 
 D20 Animated :fa-solid fa-dice-d20 fa-spin-pulse fa-lg: 
