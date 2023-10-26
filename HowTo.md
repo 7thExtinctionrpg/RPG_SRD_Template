@@ -84,12 +84,8 @@ This is your menu, navigation pane on the left side of the website. Once you hav
 
 Any text inside of `:` character is processed as CSS style and converted to HTML code for [FontAwesome](https://fontawesome.com/icons), example:
 
-```markup
-:fas fa-home fa-fw:
-```
+`:fas fa-home fa-fw:`
 
 This code is converted to :
 
-```html
-<i class="fas fa-home fa-fw"></i>
-```
+`<i class="fas fa-home fa-fw"></i>`
