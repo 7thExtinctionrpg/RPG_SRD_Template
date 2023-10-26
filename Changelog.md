@@ -6,6 +6,7 @@
 ### Features
 
 - Added fontawesome plugin for free icons
+- Added Material Icons plugin for free icons
 
 ### Bug Fixes
 
