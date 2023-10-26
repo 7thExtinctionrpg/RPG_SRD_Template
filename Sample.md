@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 
 *Italics*
 
-# Sample Table
+## Sample Table
 
 | Column 1 | Column 2 |
 | ----------- | ----------- |
@@ -24,6 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id feugiat mass
 | 2 | Morbi auctor, quam quis finibus commodo |
 | 3 | Quisque efficitur lacus molestie diam sodales faucibus |
 
+## Flexible Alerts
 
 > [!Note]
 > Sample Note Callout Style
