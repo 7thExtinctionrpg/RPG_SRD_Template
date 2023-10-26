@@ -97,11 +97,11 @@ This code is converted to
 ### Material Icons
 
 ```markup
-:mi-two-tone check_circle:
+:mi-outlined fingerprint:
 ```
 
 This code is converted to
 
 ```html
-<i class="material-icons-two-tone">check_circle</i>
+<i class="material-icons-outlined">fingerprint</i>
 ```
