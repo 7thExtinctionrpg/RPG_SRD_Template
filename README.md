@@ -23,6 +23,7 @@ So the plan is to continue to tweak and develop this, ensuring to keep it a simp
 4. Big shout out to [bronthlke](https://github.com/bronthulke) for changes to Hamburger placement, overriding styles for Fonts
 5. [Fzankl's](https://github.com/fzankl) Flexible Alerts plugin (https://github.com/fzankl/docsify-plugin-flexible-alerts)
 6. [Erickjx's](https://github.com/erickjx) Fontawesome plugin (https://github.com/erickjx/docsify-fontawesome)
+7. [Erickjx's](https://github.com/erickjx) Material Icons [Google](https://fonts.google.com/icons) plugin (https://github.com/erickjx/docsify-material-icons)
 
 
 

@@ -80,12 +80,28 @@ This is your menu, navigation pane on the left side of the website. Once you hav
 3. Change these to the fonts you want to use
 
 
-## Using Fontawesome plugin to get icons
+## Using Fontawesome and/or Material Icons plugin to display free icons in your SRD
 
-Any text inside of `:` character is processed as CSS style and converted to HTML code for [FontAwesome](https://fontawesome.com/icons), example:
+### Fontaesome
 
-`:fas fa-home fa-fw:`
+```markup
+:fas fa-home fa-fw:
+```
 
 This code is converted to :
 
-`<i class="fas fa-home fa-fw"></i>`
+```html
+<i class="fas fa-home fa-fw"></i>
+```
+
+### Material Icons
+
+```markup
+:mi-two-tone check_circle green:
+```
+
+This code is converted to :
+
+```html
+<i class="material-icons-two-tone">check_circle</i>
+```
