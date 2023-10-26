@@ -84,7 +84,7 @@ This is your menu, navigation pane on the left side of the website. Once you hav
 
 ### Fontawesome
 
-Use Fontawesome to get free icons and animated icons. Subcribed users can use Pro Icons.
+Use Fontawesome to get free icons and animated icons. Subcribed users can use Pro Icons
 
 1. Find the icon on [Fontawesome](https://fontawesome.com/icons)
 2. Select the icon
@@ -102,7 +102,10 @@ fa-solid fa-dice-d20
 
 ### Material Icons
 
-Cpoy & insert the web span link from Material Icons site into the markdown file
+Use Material Icons for more free icons
+
+1. Find the icons on [Material Icons](https://fonts.google.com/icons)
+2. Copy & insert the web span link directly into your markdown files
 
 ```markup
 <span class="material-icons">face</span>
