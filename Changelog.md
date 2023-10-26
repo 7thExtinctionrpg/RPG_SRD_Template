@@ -1,6 +1,18 @@
 # Changelog
 
-## V0.2.0
+## V0.3.0
+*26th Oct 23*
+
+### Features
+
+- Added fontawesome plugin for free icons
+
+### Bug Fixes
+
+- N/A
+
+---
+
 *23th Oct 23*
 
 ### Features

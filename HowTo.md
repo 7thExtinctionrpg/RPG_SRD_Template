@@ -78,3 +78,18 @@ This is your menu, navigation pane on the left side of the website. Once you hav
 2. Under the 'body section' you'll find siteFont & headingFont
 
 3. Change these to the fonts you want to use
+
+
+## Using Fontawesome plugin to get icons
+
+Any text inside of `:` character is processed as CSS style and converted to HTML code for [FontAwesome](https://fontawesome.com/icons), example:
+
+```markup
+:fas fa-home fa-fw:
+```
+
+This code is converted to :
+
+```html
+<i class="fas fa-home fa-fw"></i>
+```
