@@ -88,7 +88,7 @@ Use Fontawesome to get free icons and animated icons. Subcribed users can use Pr
 
 1. Find the icon on [Fontawesome](https://fontawesome.com/icons)
 2. Select the icon
-3. In the popup window copy, under the HTML tab copy everything between " "
+3. In the popup window, under the HTML tab copy everything between " "
 
 ```EXAMPLE
 <i class="fa-solid fa-dice-d20"></i>
