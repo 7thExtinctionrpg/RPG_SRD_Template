@@ -84,17 +84,19 @@ This is your menu, navigation pane on the left side of the website. Once you hav
 
 ### Fontawesome
 
-Use Fontawesome to get free icons and animated icons. Subcribed users can use Pro Icons
+Use Fontawesome to get free icons and animated icons. Subcribed users can use Pro Icons.
 
-```markup
-:fas fa-home fa-fw:
+1. Find the icon on [Fontawesome](https://fontawesome.com/icons)
+2. Select the icon
+3. In the popup window copy, under the HTML tab copy everything between " "
+
+```HTML
+<i class="fa-solid fa-dice-d20"></i>
 ```
 
-This code is converted to 
+4. Place the copied text between `:`
 
-```html
-<i class="fas fa-home fa-fw"></i>
-```
+`:fa-solid fa-dice-d20 fa-lg:`
 
 ### Material Icons
 
