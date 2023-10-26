@@ -59,5 +59,5 @@ D20 Animated :fa-solid fa-dice-d20 fa-spin-pulse fa-lg:
 
 ## Material Icons
 
-:mi-outlined fingerprint:
+<span class="material-icons">face</span>
 

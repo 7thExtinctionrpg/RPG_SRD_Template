@@ -97,7 +97,7 @@ This code is converted to
 ### Material Icons
 
 ```markup
-:mi-outlined fingerprint:
+:fingerprint:
 ```
 
 This code is converted to
